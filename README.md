@@ -3,6 +3,7 @@
 **Table of Contents**
 1. [Purpose](#{Purpose}) 
 2. [mvp](#{Mvp})
+2. [Wireframes](#{Wireframes})
 3. [Outcomes](#{Outcomes})
 4. [Technologies](#{Technologies})
 5. [Reflection](#{Reflection})
@@ -20,14 +21,15 @@
 
 ## Beyond MVP:
 
-## Prototypes
+## Wireframes
 Low-Fidelity:
 <img src="https://i.ibb.co/rZ4k5sD/Clean-Shot-2022-06-20-at-19-32-59-2x.png" alt="lowfidelitywf"/>
 
 
 High-Fidelity:
+<img src="https://i.ibb.co/9WZRHvf/Clean-Shot-2022-06-20-at-19-35-44-2x.png" alt="highfidelitywf"/>
 <img src="https://i.ibb.co/p40MmsL/Clean-Shot-2022-06-20-at-19-36-07-2x.png" alt="highfidelitywf"/>
-<img src="" alt="highfidelitywf"/>
+
 
 ## Outcomes
 
