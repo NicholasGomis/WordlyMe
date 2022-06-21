@@ -29,7 +29,7 @@ Low-Fidelity:
 High-Fidelity:
 <img src="https://i.ibb.co/9WZRHvf/Clean-Shot-2022-06-20-at-19-35-44-2x.png" alt="highfidelitywf"/>
 <img src="https://i.ibb.co/p40MmsL/Clean-Shot-2022-06-20-at-19-36-07-2x.png" alt="highfidelitywf"/>
-
+<!-- <img src="https://i.ibb.co/9WZRHvf/Clean-Shot-2022-06-20-at-19-35-44-2x.png" alt="highfidelitywf"/> -->
 
 ## Outcomes
 
