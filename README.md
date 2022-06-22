@@ -1,4 +1,4 @@
-# WordlyMe
+# WordlyMe 📚
 
 **Table of Contents**
 1. [Purpose](#{Purpose}) 
@@ -12,14 +12,18 @@
 
 
 ## Purpose
-
-
+The purpose of this solo project is to create a functional dictionary app. The app will be useful to embed all the knowledge that I have been acquiring for the past few months and apply into practice. This range from  planning tools such as Trello Board, Figma, Escalidraw to topics such as sematic HTML, Flexbox, Grid System and all the fundamental of Javascript including the DOM. In addition, the project focus on manipulate an Api, understand what data provides and how can be used these data to make a functional dictionary App.
 
 
 
 ## MVP:
+- To be able fetch any data from the API.
+- To be able to fetch a specific word/ letter from the API (Console)
+- Allow user to input a simple word and get its definition (DOM)
+
 
 ## Beyond MVP:
+- Create a random button which allows user to learn a random word of the day.
 
 ## Wireframes
 Low-Fidelity:
